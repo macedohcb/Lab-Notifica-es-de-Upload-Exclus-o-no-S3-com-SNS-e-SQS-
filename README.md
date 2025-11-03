@@ -94,13 +94,10 @@ Para evitar custos, os recursos devem ser removidos na seguinte ordem:
 1.  Esvaziar e Excluir o **Bucket S3**.
 2.  Excluir a **Fila SQS**.
 3.  Excluir o **Tópico SNS** (o que também exclui suas assinaturas).
-
+---
 ### 📊 Diagrama da Arquitetura Implementada e Imagens do Laboratório:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="posts3fofoqueiro.png" alt="Print do Servidor 1" width="300px">
 </div>
 
----
-
-Espero que este passo a passo detalhado e formatado ajude você a destacar seu aprendizado no GitHub! Gostaria de adicionar ou modificar alguma seção?

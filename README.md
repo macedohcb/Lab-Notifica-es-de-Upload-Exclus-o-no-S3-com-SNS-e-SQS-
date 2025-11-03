@@ -1,0 +1,1 @@
+# Lab-Notifica-es-de-Upload-Exclus-o-no-S3-com-SNS-e-SQS-

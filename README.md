@@ -99,7 +99,6 @@ Para evitar custos, os recursos devem ser removidos na seguinte ordem:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="posts3fofoqueiro.png" alt="Print do Servidor 1" width="300px">
-    <img src="posts3fofoqueiro1.png" alt="Print do Servidor 2" width="300px">
 </div>
 
 ---
